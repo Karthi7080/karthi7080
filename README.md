@@ -1,16 +1,14 @@
-First Project - Software Testing Portfolio
+# Software Testing Portfolio
 
-Hello! This is my first GitHub repository.  
-I am preparing for a Software Test Engineer role and this repo includes some basic scripts and notes related to testing and automation.
+This repository contains sample scripts and notes related to software testing and automation.
 
 ## About Me
-- Name: Your Name  
-- Role: Aspiring Software Test Engineer  
-- Skills: Manual Testing, Basic Automation (Selenium, Python), Bug Reporting
+- Name: Karthik Murali 
+- Aspiring Software Test Engineer
+- Skills: Manual Testing, Selenium, Python, Bug Reporting
 
-## What’s Inside
-- Sample test scripts  
-- Notes on bug tracking and reporting  
-- Links to tutorials I’m following  
+## Contents
+- `sample_test.py` - Basic Python test script with simple assertions
+- Notes and other sample scripts will be added soon
 
-Thanks for visiting!
+Feel free to explore and connect!
