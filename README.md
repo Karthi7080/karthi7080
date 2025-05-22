@@ -1,16 +1,16 @@
-## Hi there 👋
+First Project - Software Testing Portfolio
 
-<!--
-**Karthi7080/karthi7080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! This is my first GitHub repository.  
+I am preparing for a Software Test Engineer role and this repo includes some basic scripts and notes related to testing and automation.
 
-Here are some ideas to get you started:
+## About Me
+- Name: Your Name  
+- Role: Aspiring Software Test Engineer  
+- Skills: Manual Testing, Basic Automation (Selenium, Python), Bug Reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What’s Inside
+- Sample test scripts  
+- Notes on bug tracking and reporting  
+- Links to tutorials I’m following  
+
+Thanks for visiting!
