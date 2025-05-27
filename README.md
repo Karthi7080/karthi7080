@@ -1,14 +1,8 @@
-# Software Testing Portfolio
+I’m Karthik Murali, an aspiring Data Analyst passionate about uncovering insights from data to solve real-world problems. With strong skills in Python, data visualization, and statistical analysis, I enjoy turning complex datasets into clear, actionable stories.
 
-This repository contains sample scripts and notes related to software testing and automation.
+I have experience working with tools like Pandas, Streamlit, and SQL to clean, analyze, and visualize data. For example, I built an interactive Valorant Agent Stats Dashboard to help players explore and compare game data dynamically.
 
-## About Me
-- Name: Karthik Murali 
-- Aspiring Software Test Engineer
-- Skills: Manual Testing, Selenium, Python, Bug Reporting
+In addition to data analysis, I have practical experience in software testing and automation, which enhances my attention to detail and ensures high data quality in all my projects.
 
-## Contents
-- `sample_test.py` - Basic Python test script with simple assertions
-- Notes and other sample scripts will be added soon
+I’m eager to apply my skills and grow in the data analysis field, delivering value through data-driven solutions.
 
-Feel free to explore and connect!
